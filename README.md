@@ -11,6 +11,7 @@ Links to topics discussed during the demo:
 
 General reference:
 https://docs.python.org/3/
+<br>
 https://docs.djangoproject.com/en/3.2/
 
 
