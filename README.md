@@ -25,9 +25,15 @@ What are jinja tags? https://docs.djangoproject.com/en/3.2/topics/templates/
 
 Helpful VSCode extensions and settings for Django:
 -whitespace enabled (VS Code setting)
+<br>
 -bracket pair colorizer
+<br>
 -Djaneiro Django Smippets
+<br>
 -Prettier
+<br>
 -Pylance
+<br>
 -Python
+<br>
 -Syntax Highlighter
