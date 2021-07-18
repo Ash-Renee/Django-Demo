@@ -34,6 +34,6 @@ Helpful VSCode extensions and settings for Django:
 <br>
 -Pylance
 <br>
--Python
+-Python (this says it includes pylance but I assure you it doesn't work like it should, hence both on the list)
 <br>
 -Syntax Highlighter
