@@ -22,3 +22,12 @@ what is context? https://stackoverflow.com/questions/20957388/what-is-a-context-
 what is import os? https://docs.python.org/3/library/os.html
 <br>
 What are jinja tags? https://docs.djangoproject.com/en/3.2/topics/templates/
+
+Helpful VSCode extensions and settings for Django:
+-whitespace enabled (VS Code setting)
+-bracket pair colorizer
+-Djaneiro Django Smippets
+-Prettier
+-Pylance
+-Python
+-Syntax Highlighter
