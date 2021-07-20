@@ -17,6 +17,8 @@ https://docs.djangoproject.com/en/3.2/
 
 What is srftime? https://strftime.org/
 <br>
+Strftime codes cheat sheet: https://strftime.org/
+<br>
 what is context? https://stackoverflow.com/questions/20957388/what-is-a-context-in-django
 <br>
 what is import os? https://docs.python.org/3/library/os.html
