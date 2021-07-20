@@ -28,7 +28,7 @@ Helpful VSCode extensions and settings for Django:
 <br>
 -bracket pair colorizer
 <br>
--Djaneiro Django Smippets
+-Djaneiro Django Snippets
 <br>
 -Prettier
 <br>
